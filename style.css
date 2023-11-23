@@ -1,8 +1,11 @@
 body {
-  color: white;
-  background-color: #b9d5f0;
-}
-ul{ 
-  display: flex;
-  justify-content: space-between;
-}
+    color: white;
+    background-color: #b9d5f0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  ul{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+  }
