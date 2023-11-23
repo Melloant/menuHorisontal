@@ -1,8 +1,8 @@
 body {
   color: white;
-  beckground-color: #b9d5f0;
+  background-color: #b9d5f0;
 }
 ul{ 
   display: flex;
-  justify-content; space-between;
+  justify-content: space-between;
 }
